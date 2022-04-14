@@ -21,7 +21,31 @@ img {
 }
 
 .flex-container-2 {
- background-color: DodgerBlue;
+ background-color: rgb(194,191,191);
  width: 1558px;
 
+}
+
+.flex-container-3 {
+ background-color: black;
+ width: 1558px;
+	
+}
+
+nav{
+	width:100%;
+	text-align: center;
+	
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+	
+}
+
+nav li{
+	display:inline;
+	
 }
