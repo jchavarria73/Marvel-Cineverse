@@ -7,7 +7,6 @@ body{
 }
 	
 
-
 .flex-container-1 {
  background-color: black;
  width: 1920px;
@@ -51,8 +50,25 @@ nav li{
 }
 
 img {
-  display: block;
+  flex: center;
   margin-left: auto;
   margin-right: auto;
-  width: 50
+  
 }
+
+
+    .container-1{
+      display:flex;  
+      justify-content:center;
+	  flex-direction:row;
+    }
+  
+  .container-1 div{
+    border:1px #ccc solid;
+    padding:10px;
+  }
+  
+  .container-1-box{
+    flex-basis: 27%;  
+  }
+  
