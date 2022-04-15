@@ -67,7 +67,7 @@ img {
     border:1px #ccc solid;
 	  padding-top: 20px;
  	  padding-right: 30px;
- 	  padding-bottom: 45px;
+ 	  padding-bottom: 46px;
 	  padding-left: 80px;
   }
   
@@ -88,6 +88,6 @@ p {
 
 footer{
 	text-align: center;
-	line-height: 90%;
+	line-height: 300%;
 	
 }
