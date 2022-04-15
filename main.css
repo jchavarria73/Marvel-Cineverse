@@ -101,6 +101,7 @@ font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", 
 }
 
 nav a:visited {
+	color:rgb(255,255,255);
 	
 }
 
@@ -109,5 +110,5 @@ nav a:hover {
 }
 
 nav a:active{
-  text-decoration: underline;
+
 }
