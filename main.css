@@ -66,9 +66,9 @@ img {
   .container-1 div{
     border:1px #ccc solid;
 	  padding-top: 20px;
- 	  padding-right: 297px;
+ 	  padding-right: 218px;
  	  padding-bottom: 33.5px;
-	  padding-left: 297px;
+	  padding-left: 218px;
   }
   
 
@@ -83,7 +83,7 @@ h1 {
 p {	
 	font-size: 20px;
 	text-align:center;
-	line-height: 200%; 
+	line-height: 300%; 
 }
 
 footer{
