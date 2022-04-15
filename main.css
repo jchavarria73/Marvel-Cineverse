@@ -7,7 +7,7 @@ body{
 }
 	
 
-.flex-container-1 {
+.header {
  background-color: black;
  width: 1920px;
 
@@ -19,13 +19,13 @@ img {
   margin-right: auto;
 }
 
-.flex-container-2 {
+.flex-container-1 {
  background-color: rgb(194,191,191);
  width: 1920px;
 
 }
 
-.flex-container-3 {
+.flex-container-2 {
  background-color: black;
  width: 1920px;
 	
