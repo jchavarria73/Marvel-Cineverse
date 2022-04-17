@@ -90,8 +90,21 @@ nav li{
 .container-4 div{
     border:1px #ccc solid;
     padding:10px;
-	width: 940px;
+	width: 938px;
   }
+
+.container-5{
+			 display:flex;  
+			 justify-content:center;
+}
+  
+.container-5 div{
+    border:1px #ccc solid;
+    padding:10px;
+	width: 931px;
+    height: 359px;
+}
+
 
 h1{
    font-size: 45px;
