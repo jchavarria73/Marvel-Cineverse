@@ -63,6 +63,7 @@ nav li{
 }
   
 .container-2 div{
+	background-color: white;
     border:1px #ccc solid;
     padding:10px;
 	width: 931px;
@@ -75,6 +76,7 @@ nav li{
 }
   
 .container-3 div{
+	background-color: white;
     border:1px #ccc solid;
     padding:10px;
 	width: 931px;
@@ -89,6 +91,7 @@ nav li{
 }
 
 .container-4 div{
+	background-color: white;
     border:1px #ccc solid;
     padding:10px;
 	width: 930px;
@@ -100,6 +103,7 @@ nav li{
 }
   
 .container-5 div{
+	background-color: white;
     border:1px #ccc solid;
     padding:60px;
 	width: 931px;
@@ -112,6 +116,7 @@ nav li{
 }
   
 .container-6 div{
+	background-color: white;
     border:1px #ccc solid;
     padding:60px;
 	width: 931px;
@@ -124,6 +129,7 @@ nav li{
 }
   
 .container-7 div{
+	background-color: white;
     border:1px #ccc solid;
     padding:60px;
 	width: 931px;
