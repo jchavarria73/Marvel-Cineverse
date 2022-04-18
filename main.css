@@ -117,6 +117,18 @@ nav li{
     height: 2595px;
 }
 
+.container-7{
+			 display:flex;  
+			 justify-content:center;
+}
+  
+.container-7 div{
+    border:1px #ccc solid;
+    padding:60px;
+	width: 931px;
+    height: 2595px;
+}
+
 h1{
    font-size: 45px;
    font-weight: 500;
