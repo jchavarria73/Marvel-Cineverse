@@ -60,6 +60,7 @@ nav li{
 .container-2{
 			 display: flex;  
 			 justify-content: center;
+			 flex-direction: row;
 }
   
 .container-2 div{
@@ -87,6 +88,7 @@ nav li{
 .container-4{
 			 display: flex;  
 			 justify-content: center;
+			 flex-direction: row;
 }
   
 .container-4 div{
