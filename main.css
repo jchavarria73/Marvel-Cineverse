@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	 background-color: rgb(255,2555,255);
+	 background-color: rgb(0,0,0);
 	 margin: 0;
 }
 	
@@ -44,6 +44,7 @@ nav li{
 }
 
 .container-1{
+			 background-color: white;
 			 display:flex;  
 			 justify-content:center;
 			 flex-direction:row;
