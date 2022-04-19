@@ -8,7 +8,7 @@ body{
 	
 .header{
  		background-color: black;
- 		width: 1200px;
+ 		width: 1920px;
 }
 
 img{
@@ -28,7 +28,7 @@ img{
 }
 
 nav{
-	width: 63%;
+	width: 100%;
 	text-align: center;
 	flex-direction: row;
 }
